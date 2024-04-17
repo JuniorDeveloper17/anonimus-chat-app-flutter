@@ -68,4 +68,12 @@ Hubungi saya email ryanxxjr@gmail.com
 
 ## Screenshots Priview App
 
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/1.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/2.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/3.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/4.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/5.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/6.png)
+![alt text](https://github.com/JuniorDeveloper17/anonimus-chat-app-flutter/blob/master/assets/priview/7.png)
+
 
